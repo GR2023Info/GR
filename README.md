@@ -4,7 +4,7 @@ Welcome to the official GitHub page of Ghazal Rouhafzay, Assistant Professor in 
 This repository serves as a central hub for information related to my research, teaching activities, and ongoing projects.
 
 ## About the Lab
-The lab focuses on applied and foundational research in **Artificial Intelligence and Data Science**, with an emphasis on:
+The lab focuses on applied and foundational research in Artificial Intelligence and Data Science, with an emphasis on:
 - Machine learning and deep learning
 - Computer vision and multimodal perception
 - AI applications in health, sensing, and real-world systems
